@@ -2,7 +2,6 @@
 - 👀 I’m interested in android develop
 - 🌱 I’m currently learning mobile develop
 - 💞️ I’m looking to collaborate on develop for android
-- 🤓 Looking for a first job
 - 📫 How to reach me rita@rita321.ru
      
 <!---
